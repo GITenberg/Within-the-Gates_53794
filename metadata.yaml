@@ -1,0 +1,31 @@
+_repo: Within-the-Gates_53794
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phelps, Elizabeth Stuart
+    aliases:
+    - Ward, Elizabeth Stuart Phelps
+    - Phelps, E. Stuart (Elizabeth Stuart)
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '1685'
+    url: http://www.gutenberg.org/2009/agents/1685
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Stuart_Phelps_Ward
+description: ''
+gutenberg_issued: '2016-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53794'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Drama'
+- !lcsh 'Physicians -- Drama'
+- !lcsh 'Future life -- Drama'
+- !lcsh 'Spiritualism -- Drama'
+- !lcc 'PS'
+- GITenberg
+title: Within the Gates
+url: http://www.gutenberg.org/ebooks/53794
